@@ -1,0 +1,33 @@
+{
+	"meta": {
+		"image": "spritesheet.png",
+		"size": {"w":381,"h":364},
+		"scale": "1"
+	},
+	"frames": {
+		"btn-attack":
+		{
+			"frame": {"x":2,"y":2,"w":377,"h":133},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":377,"h":133},
+			"sourceSize": {"w":377,"h":133}
+		},
+		"btn-play-now":
+		{
+			"frame": {"x":2,"y":139,"w":254,"h":79},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":1,"y":0,"w":254,"h":79},
+			"sourceSize": {"w":256,"h":79}
+		},
+		"logo":
+		{
+			"frame": {"x":2,"y":222,"w":107,"h":140},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":0,"w":107,"h":140},
+			"sourceSize": {"w":107,"h":141}
+		}
+	}
+}
